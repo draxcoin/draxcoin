@@ -1,1 +1,1 @@
-## DRAXCoin - The Delegated Relay for Anonymous Exchange Protocol
+## DRAXCoin - The Distributed Relay for Anonymous Exchange Protocol
