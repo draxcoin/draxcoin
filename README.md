@@ -1,0 +1,2 @@
+# draxcoin
+The DraxCoin blockchain
